@@ -5,6 +5,7 @@
 
 body {
   background-color: var(--secondary-colour);
+  margin: 30px;
 }
 h1 {
   color: var(--primary-colour);
